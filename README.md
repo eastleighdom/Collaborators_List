@@ -2,6 +2,10 @@
 Used to teach students how a large team can modify the same text file (below)
 
 ## List of collaborators:
+Dom Y
+<<<<<<< HEAD
+=======
+=======
 Dom Y woz ere 2026
 Guido was here 2026
 Rowan was here 2026
@@ -12,7 +16,9 @@ Amanda was here 2026
 Maddy says hiiii
 =======
 Dom Y2 woz ere 2027
-
+Artem was here 2001
+okay alright
+Eugene 
 
 
 
@@ -99,4 +105,7 @@ Dom Y2 woz ere 2027
  -::::::-::-::::::::::..:::.::-=-+   =@+# *%=@ +@=#@ @ .@@*  .:::::::::::::::::::::.  -=@@= .@%.  
  -::::-:-::::::::::::::.::::--=-   +@*%#+*@:@  @@=#@  @ @@@@  ::::::::::::::::::::.  :@@@:+ -..@: 
                                                       @    .      
+>>>>>>> 1c2026f434e77e476bc3384e0a145be3d1005117
+>>>>>>> 732757a69f164a8a893a26aa84f76e1ef66a8c6b
+
 >>>>>>> 1c2026f434e77e476bc3384e0a145be3d1005117
