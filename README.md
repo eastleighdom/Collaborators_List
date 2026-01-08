@@ -14,7 +14,7 @@ Riley •_•
 Amanda was here 2026
 Dom Y2 woz ere 2027
 Artem was here 2001
-
+okay alright
 Eugene 
 
 
